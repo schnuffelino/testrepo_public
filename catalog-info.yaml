@@ -1,8 +1,8 @@
   apiVersion: backstage.io/v1alpha1                                                                    
   kind: Component                                                                                      
   metadata:                                                                                            
-    name: testrepo                                                                                     
-    description: My test repo                                                                          
+    name: testrepo_public                                                                                     
+    description: My test repo (public)                                                                          
   spec:                
     type: service
     lifecycle: experimental
